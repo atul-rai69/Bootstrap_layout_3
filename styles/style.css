@@ -145,7 +145,7 @@ background-image: url("../images/icons8-hamburger-50.png") !important;
 }
 
 .cards-section{
-    background-color: #E6E6E6;
+    background-color: #EFF2F1;
     padding-top: 100px;
     padding-bottom: 100px;
 }
@@ -166,7 +166,7 @@ background-image: url("../images/icons8-hamburger-50.png") !important;
 }
 
 .choose_us_section{
-    background-color: #E6E6E6;
+    background-color: #EFF2F1;
     padding-top: 50px;
     padding-bottom: 50px;
 }
@@ -237,7 +237,7 @@ background-image: url("../images/icons8-hamburger-50.png") !important;
 
 
 .footer_hero_section{
-    background-color: #E6E6E6;
+    background-color: #EFF2F1;
     padding-top: 10%;
     padding-bottom: 10%;
 }
@@ -325,7 +325,7 @@ background-image: url("../images/icons8-hamburger-50.png") !important;
 
 
 .products-section{
-    background-color: #E6E6E6;
+    background-color: #EFF2F1;
     padding-top: 30px;
 }
 .products-section .img-product-wrapper img{
@@ -445,8 +445,8 @@ background-image: url("../images/icons8-hamburger-50.png") !important;
 .subscribe-section{
     background: linear-gradient(
     to bottom,
-    #E6E6E6 0%,
-    #E6E6E6 38%,
+    #EFF2F1 0%,
+    #EFF2F1 38%,
     #ffffff 38%,
     #ffffff 100%
   );
@@ -522,4 +522,5 @@ background-image: url("../images/icons8-hamburger-50.png") !important;
   .grid1-img-wrapper::after {
     bottom: -24%;
   }
+
 }
